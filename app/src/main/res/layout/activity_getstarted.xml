@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/splashscreen"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="40dp"
+        android:layout_marginTop="500dp"
+        android:padding="20dp"
+        android:text="Detect. Analyze. Recover"
+        android:textColor="#1A797B"
+        android:textSize="22dp"
+        android:textStyle="bold" />
+    />
+
+    <TextView
+        android:id="@+id/tvGetStarted"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="40dp"
+        android:background="@drawable/whiteedittextview"
+        android:padding="5dp"
+        android:text="Get Started"
+        android:textAlignment="center"
+        android:textColor="@color/lightblue"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+</LinearLayout>

@@ -1,0 +1,229 @@
+<resources>
+    <string name="app_name">EyeDetectionApp</string>
+    <string name="amdsymptoms">• AMD symptoms vary by stage: early, intermediate, and late.\n• Early dry AMD typically has no symptoms.\n• Intermediate dry AMD may present mild symptoms like mild central vision blurriness or difficulty seeing in low light.\n• Reduced brightness of colors and increased difficulty seeing in low light may occur in late AMD.\n</string>
+    <string name="amdrisk">• Age: AMD is more common in older adults, especially those over 50.\n• Family history: Genetics play a significant role, with a family history of AMD increasing the risk.\n• Smoking: Tobacco use significantly elevates the risk of developing AMD.\n• Race: Caucasians are at higher risk compared to other ethnic groups.\n• Gender: Women tend to be at higher risk than men.\n• Obesity: Being overweight or obese increases the likelihood of AMD.\n</string>
+    <string name="amdcauses">• Drusen accumulation: The presence of drusen (yellow deposits) under the retina is a hallmark of AMD.\n• Retinal pigment epithelium (RPE) dysfunction: Changes in the RPE layer can impair nutrient exchange and waste removal, leading to AMD.\n• Genetic factors: Certain gene variants are associated with an increased risk of AMD.\n• Oxidative stress: Damage from free radicals may contribute to AMD progression.\n• Inflammation: Chronic inflammation in the eye may play a role in AMD development.\n</string>
+    <string name="amdprevention">You may be able to lower your risk of AMD (or slow vision loss from AMD) by making these healthy choices: \n• Quit smoking — or don’t start \n• Get regular physical activity \n• Maintain healthy blood pressure and cholesterol levels\n• Eat healthy foods, including leafy green vegetables and fish\n</string>
+    <string name="amdtreatment">• Early AMD: No treatment available, regular eye exams and lifestyle changes recommended (healthy diet, exercise, quit smoking).\n• Intermediate AMD: Special dietary supplements may prevent progression to late AMD or slow it down.\n• Wet AMD: Treatments include anti-VEGF injections and photodynamic therapy to prevent further vision loss.\n• Late dry AMD: Currently no treatment, ongoing research for potential options; support available for managing vision loss.\n</string>
+
+    <string name="catarctsymptoms">•    Your vision is cloudy or blurry\n
+•	Colors look faded\n
+•	You can’t see well at night\n
+•	Lamps, sunlight, or headlights seem too bright\n
+•	You see a halo around lights\n
+•	You see double (this sometimes goes away as the cataract gets bigger)\n
+•	You have to change the prescription for your glasses or contact lenses often\n
+</string>
+    <string name="cataractrisk">
+        •	Age: Cataracts are more common with aging.\n
+•	Family history: Genetics can predispose individuals to cataract development.\n
+•	Ultraviolet (UV) radiation: Prolonged exposure to sunlight without eye protection increases risk.\n
+•	Smoking: Smokers have a higher likelihood of developing cataracts.\n
+•	Diabetes: High blood sugar levels contribute to cataract formation.\n
+•	Obesity: Being overweight raises the risk of cataracts.\n
+•	High blood pressure: Hypertension is associated with an increased risk.\n
+•	Previous eye injury or surgery: Trauma or certain eye surgeries can elevate risk.\n
+•	Prolonged corticosteroid use: Long-term steroid use accelerates cataract development.\n
+•	Excessive alcohol consumption: Heavy drinking may raise the risk of cataracts.\n
+    </string>
+    <string name="cataractcauses">
+        •	Age-related changes in lens proteins: Clumping of lens proteins leads to cloudiness.\n
+•	Oxidative stress: Damage from free radicals affects lens proteins, promoting cataracts.\n
+•	Ultraviolet radiation: UV exposure damages lens proteins and increases risk.\n
+•	Diabetes: High blood sugar levels alter lens cell metabolism, contributing to cataracts.\n
+•	Smoking: Toxins in tobacco smoke damage the lens, increasing risk.\n
+•	Eye trauma or injury: Physical damage to the eye can cause cataracts.\n
+•	Eye inflammation: Conditions like uveitis can lead to cataract formation.\n
+•	Congenital factors: Genetic or developmental abnormalities may result in congenital cataracts in infants.\n
+    </string>
+    <string name="cataractprevention">
+        You may be able to lower your risk of AMD (or slow vision loss from AMD) by making these healthy choices:\n
+•	Quit smoking — or don’t start\n
+•	Get regular physical activity\n
+•	Maintain healthy blood pressure and cholesterol levels\n
+•	Eat healthy foods, including leafy green vegetables and fish\n
+    </string>
+    <string name="cataracttreatment">
+    •	Early AMD: No treatment available, regular eye exams and lifestyle changes recommended (healthy diet, exercise, quit smoking).\n
+•	Intermediate AMD: Special dietary supplements may prevent progression to late AMD or slow it down.\n
+•	Wet AMD: Treatments include anti-VEGF injections and photodynamic therapy to prevent further vision loss.\n
+•	Late dry AMD: Currently no treatment, ongoing research for potential options; support available for managing vision loss.\n
+
+</string>
+
+    <string name="diabeticsymptoms">
+        •	Early diabetic retinopathy may be asymptomatic or present with intermittent vision changes, such as difficulty reading or seeing distant objects.\n
+•	Advanced stages may involve bleeding of retinal blood vessels into the vitreous, resulting in dark, floating spots or cobweb-like streaks.\n
+•	Prompt treatment is essential to prevent complications like scar formation in the eye or recurrent bleeding.\n
+•	Without treatment, diabetic retinopathy can lead to further vision impairment or blindness.\n
+
+</string>
+    <string name="diabeticrisk">
+        •	Individuals with diabetes, especially those with poorly controlled blood sugar levels over an extended period, are at increased risk of developing diabetic retinopathy.\n
+•	Other risk factors include hypertension (high blood pressure), high cholesterol levels, pregnancy-related diabetes (gestational diabetes), and a long duration of diabetes.\n
+    </string>
+    <string name="diabeticcauses">
+       •	Chronic hyperglycemia (high blood sugar) in diabetes leads to damage of the small blood vessels in the retina, impairing blood flow and oxygen delivery to the retinal tissue.\n
+•	Over time, the weakened blood vessels may leak fluid or blood into the retina, causing swelling (macular edema) or the growth of abnormal new blood vessels on the retina\'s surface (proliferative retinopathy).\n
+•	In advanced stages, diabetic retinopathy can lead to vision loss or blindness if left untreated.\n
+    </string>
+    <string name="diabeticprevention">
+       •	Effective management of diabetes through regular monitoring of blood sugar levels, adherence to prescribed medications, and lifestyle modifications (including a healthy diet and regular exercise) can help reduce the risk and progression of diabetic retinopathy.\n
+•	Controlling other risk factors such as hypertension and hyperlipidemia (high cholesterol levels) is also essential in preventing diabetic eye complications.\n
+•	Individuals with diabetes should undergo comprehensive dilated eye exams at least once a year, or more frequently as recommended by their healthcare provider, to detect diabetic retinopathy early when treatment is most effective.\n
+
+    </string>
+    <string name="diabetictreatment">
+   •	Effective management of diabetes through regular monitoring of blood sugar levels, adherence to prescribed medications, and lifestyle modifications (including a healthy diet and regular exercise) can help reduce the risk and progression of diabetic retinopathy.\n
+•	Controlling other risk factors such as hypertension and hyperlipidemia (high cholesterol levels) is also essential in preventing diabetic eye complications.\n
+•	Individuals with diabetes should undergo comprehensive dilated eye exams at least once a year, or more frequently as recommended by their healthcare provider, to detect diabetic retinopathy early when treatment is most effective.\n
+
+</string>
+
+    <string name="glaucomasymptoms">
+        •	Glaucoma typically progresses slowly and may not present noticeable symptoms in the early stages..\n
+•	As the condition advances, peripheral vision loss (tunnel vision) may occur, gradually leading to central vision impairment..\n
+•	Other symptoms may include eye pain, headache, blurred vision, halos around lights, and nausea or vomiting in acute angle-closure glaucoma..\n
+    </string>
+    <string name="glaucomarisk">
+        •	Age is a significant risk factor, with individuals over 60 being more susceptible.\n
+•	Other risk factors include family history of glaucoma, African or Hispanic ancestry, certain medical conditions like diabetes or cardiovascular disease, and prolonged use of corticosteroids.\n
+•	Elevated intraocular pressure (IOP) is a major risk factor for glaucoma, but some individuals may develop the condition with normal IOP, known as normal-tension glaucoma.\n
+    </string>
+    <string name="glaucomacauses">
+       •	The exact cause of glaucoma is often related to the impaired drainage of aqueous humor, leading to increased intraocular pressure (IOP).\n
+•	Damage to the optic nerve results from prolonged elevation of IOP, which may occur due to blockage in the drainage canals (open-angle glaucoma) or sudden angle closure (angle-closure glaucoma).\n
+    </string>
+    <string name="glaucomaprevention">
+      •	Regular eye examinations, including measurement of intraocular pressure and evaluation of the optic nerve, are crucial for early detection and prevention of glaucoma-related vision loss.\n
+•	Maintaining a healthy lifestyle with regular exercise, a balanced diet, and avoidance of smoking can contribute to overall eye health.\n
+•	Individuals with risk factors for glaucoma, such as family history or certain medical conditions, should undergo routine eye screenings as recommended by their healthcare provider.\n
+
+    </string>
+    <string name="glaucomaptreatment">
+  •	Treatment aims to lower intraocular pressure to prevent further optic nerve damage and preserve vision.\n
+•	Medications such as eye drops, oral medications, or surgical interventions may be prescribed to reduce intraocular pressure.\n
+•	Laser therapy (laser trabeculoplasty) or surgical procedures (trabeculectomy, drainage implants) may be recommended for individuals with advanced glaucoma or those who do not respond to medication.\n
+•	Regular follow-up appointments with an eye care professional are essential to monitor disease progression and adjust treatment as needed to maintain optimal vision. \n
+
+</string>
+
+    <string name="pinkeyesymptoms">
+       •	Common symptoms include red or pink discoloration of the eyes, itchiness, irritation, and a gritty sensation.\n
+•	Watery or thick discharge from the eyes, which may be clear, yellow, or greenish in color.\n
+•	Swelling of the eyelids, increased sensitivity to light (photophobia), and crusting or stickiness of the eyelashes, particularly upon waking.\n
+
+    </string>
+    <string name="pinkeyerisk">
+        •	Pink eye can affect anyone, but certain factors increase the risk, including exposure to infected individuals or contaminated surfaces, poor hygiene practices, allergies, or underlying medical conditions.\n
+•	Newborns born to mothers with sexually transmitted infections (STIs) such as chlamydia or gonorrhea may develop neonatal conjunctivitis, also known as ophthalmia neonatorum.\n
+
+    </string>
+    <string name="pinkeyecauses">
+      •	Viral and bacterial infections are common causes of pink eye, often resulting from the spread of viruses or bacteria through direct contact with infected secretions or contaminated objects.\n
+•	Allergic conjunctivitis occurs when the eyes react to allergens such as pollen, dust mites, pet dander, or certain chemicals, triggering an inflammatory response.\n
+•	Chemical conjunctivitis may occur due to exposure to irritants like chlorine in swimming pools, air pollution, or harsh chemicals in cosmetics or eye care products.\n
+
+    </string>
+    <string name="pinkeyeprevention">
+      •	Practicing good hygiene, including frequent handwashing with soap and water, avoiding touching the eyes with unwashed hands, and disinfecting commonly touched surfaces, can help prevent the spread of pink eye.\n
+•	Avoiding sharing personal items such as towels, pillows, or eye makeup with infected individuals can reduce the risk of transmission.\n
+•	Individuals with allergies should minimize exposure to allergens and consider using antihistamine eye drops or other allergy medications as directed by a healthcare professional.\n
+
+    </string>
+    <string name="pinkeyetreatment">Treatment of pink eye depends on the underlying cause:
+•	Viral conjunctivitis typically resolves on its own within 1-2 weeks without specific treatment. Cold compresses and artificial tears may help alleviate symptoms.\n
+•	Bacterial conjunctivitis may require antibiotic eye drops or ointment to clear the infection. Prompt treatment can shorten the duration of symptoms and reduce the risk of complications.\n
+•	Allergic conjunctivitis can be managed with antihistamine eye drops, oral antihistamines, or corticosteroid eye drops to relieve inflammation and itching.\n
+•	It is essential to avoid rubbing the eyes, as this can worsen symptoms and spread the infection. Individuals with severe or persistent symptoms should seek medical evaluation and treatment by a healthcare professional.\n
+
+</string>
+
+    <string name="hypertensivesymptoms">
+        •	Initially, hypertensive retinopathy may be asymptomatic.\n
+    •	As the condition progresses, symptoms may include blurred vision, headaches, visual disturbances, and in severe cases, vision loss.\n
+    •	Other signs may include retinal hemorrhages, cotton wool spots, hard exudates, and optic nerve swelling.\n
+    </string>
+    <string name="hypertensiverisk">
+       •	Hypertensive retinopathy is directly linked to high blood pressure (hypertension).\n
+•	Individuals with uncontrolled or poorly managed hypertension are at increased risk of developing hypertensive retinopathy.\n
+•	Other risk factors include long-standing hypertension, severe hypertension, and systemic vascular diseases.\n
+
+    </string>
+    <string name="hypertensivecauses">
+     •	High blood pressure damages the blood vessels throughout the body, including those in the retina.\n
+•	Increased pressure within the blood vessels can lead to narrowing, leakage, or rupture of the retinal blood vessels, causing damage to the retina and impairing vision.\n
+
+    </string>
+    <string name="hypertensiveprevention">
+    •	Maintain healthy blood pressure levels through lifestyle modifications such as regular exercise, a balanced diet low in sodium and saturated fats, weight management, and stress reduction.\n
+•	Adhere to prescribed hypertension medications as directed by a healthcare professional.\n
+•	Attend regular medical check-ups to monitor blood pressure levels and assess the risk of hypertensive retinopathy.\n
+
+    </string>
+    <string name="hypertensivetreatment">•	Treatment focuses on controlling blood pressure to prevent further damage to the retina.\n
+•	Lifestyle modifications, including dietary changes and increased physical activity, are recommended to manage hypertension.\n
+•	Medications prescribed by a healthcare provider, such as antihypertensive drugs, may be necessary to lower and maintain blood pressure within a healthy range.\n
+•	In advanced cases of hypertensive retinopathy, laser therapy or other surgical interventions may be considered to address specific retinal complications and preserve vision.\n
+
+
+</string>
+
+    <string name="myopiasymptoms">
+        •  Blurred vision when looking at distance objects/n
+        •  Difficulty seeing road signs, blackboards, or television screens from a distance/n
+•  Eye strain or headaches, especially after prolonged periods of focusing on distant objects/n
+        •  Squinting or partially closing the eyelids to see more clearly/n
+    </string>
+    <string name="myopiarisk">
+       •	Genetics: Myopia tends to run in families, and individuals with one or both parents affected by myopia are at higher risk.\n
+•	Environmental factors: Excessive near work activities (such as reading or using digital devices for extended periods), limited outdoor exposure, and inadequate lighting conditions may contribute to the development and progression of myopia.\n
+•	Age: Myopia often begins during childhood or adolescence and may progress until early adulthood, stabilizing thereafter.\n
+
+    </string>
+    <string name="myopiacauses">
+     •	Axial elongation: Myopia occurs when the eyeball grows too long from front to back, causing light rays to focus in front of the retina rather than directly on its surface.\n
+•	Changes in the shape of the cornea or lens: An overly curved cornea or lens can also lead to myopia by refracting light improperly onto the retina.\n
+
+    </string>
+    <string name="myopiaprevention">
+    •	Outdoor time: Encouraging children to spend more time outdoors, particularly during daylight hours, has been associated with a reduced risk of myopia development.\n
+•	Visual hygiene: Practicing good visual habits, such as taking regular breaks during near work activities, maintaining proper lighting conditions, and ensuring an ergonomic workspace, may help reduce eye strain and slow the progression of myopia.\n
+•	Corrective lenses: Wearing appropriate eyeglasses or contact lenses prescribed by an eye care professional can correct myopia and alleviate associated symptoms.\n
+
+    </string>
+    <string name="myopiatreatment">
+        •	Eyeglasses or contact lenses: Prescription lenses are the most common treatment for correcting myopia and improving visual acuity.\n
+        •   Orthokeratology (Ortho-K): This non-surgical treatment involves wearing specially designed rigid contact lenses overnight to reshape the cornea temporarily, providing clear vision without the need for corrective lenses during the day.\n
+        •   Refractive surgery: Procedures such as LASIK (laser-assisted in situ keratomileusis) or PRK (photorefractive keratectomy) can permanently reshape the cornea to correct myopia, reducing or eliminating the need for glasses or contact lenses.\n
+        •   Atropine eye drops: Low-dose atropine eye drops have been shown to slow the progression of myopia in children when used as part of a comprehensive treatment plan under the guidance of an eye care professional.\n</string>
+
+    <string name="normalsymptoms">
+        •	Clear vision at all distances\n
+    •	Comfortable and effortless visual focus on objects, whether near or far.\n
+    •	No significant eye strain or fatigue during visual tasks.\n
+    </string>
+    <string name="normalrisk">
+       •	Genetics: Normal vision is often inherited, so having parents with normal vision increases the likelihood of having normal vision as well.\n
+•	Healthy lifestyle: Maintaining a balanced diet, protecting eyes from excessive UV exposure, and practicing good visual habits contribute to sustaining normal vision.\n
+•	Regular eye care: Routine eye examinations help monitor eye health and detect any potential issues early, ensuring the maintenance of normal vision.\n
+
+    </string>
+    <string name="normalcauses">
+     •	Properly shaped cornea and lens: The cornea and lens in emmetropic eyes are shaped in such a way that they refract light correctly onto the retina.\n
+•	Appropriate eyeball length: The length of the eyeball in normal vision is such that light focuses precisely on the retina without needing adjustments.\n
+
+    </string>
+    <string name="normalprevention">
+    •	Protecting eyes from injury: Using protective eyewear during activities that pose a risk to the eyes can prevent trauma that could affect vision.\n
+•	Healthy diet: Consuming a diet rich in vitamins and minerals, especially those beneficial to eye health (e.g., vitamin A, C, E, and omega-3 fatty acids), supports overall eye function.\n
+•	Avoiding excessive screen time: Limiting prolonged exposure to digital screens and ensuring regular breaks can prevent eye strain and maintain comfortable vision.\n
+
+    </string>
+    <string name="normaltreatment">•	No treatment needed: In individuals with normal vision, no corrective lenses or surgical interventions are necessary.\n
+•	Regular eye exams: Continuing routine check-ups with an eye care professional ensures that any potential issues are identified early, and overall eye health is maintained.\n
+
+
+</string>
+
+</resources>
